@@ -1,5 +1,6 @@
 package PracticalWork.ThirdWork.InterimСertification;
 
-public class CreatePullRequest {
-
+public enum Gender {
+  MALE,
+  FEMALE
 }
